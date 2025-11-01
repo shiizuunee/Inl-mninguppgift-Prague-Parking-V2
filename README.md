@@ -25,4 +25,4 @@ Testdata genereras automatiskt vid första körningen.
 - Spectre.Console (installeras automatiskt)
 
 ## Författare
-[Ditt namn]
+Djan Karis Lomongo Freolo
