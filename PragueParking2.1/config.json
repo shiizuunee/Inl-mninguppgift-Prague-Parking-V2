@@ -1,0 +1,21 @@
+{
+  "NumberOfSpots": 100,
+  "VehicleTypes": {
+    "Car": {
+      "Size": 4,
+      "HourlyRate": 20
+    },
+    "MC": {
+      "Size": 2,
+      "HourlyRate": 10
+    },
+    "Bicycle": {
+      "Size": 1,
+      "HourlyRate": 5
+    },
+    "Bus": {
+      "Size": 16,
+      "HourlyRate": 80
+    }
+  }
+}
