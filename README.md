@@ -1,6 +1,6 @@
 # Object-Oriented Parking Management System – Prague Parking
 
-## Summary
+## Overview
 
 This project involved creating an object-oriented parking management system for Prague’s parking facility with a capacity of 100 vehicles. The system handles four vehicle types: cars, motorcycles, bicycles, and buses, each with different sizes and pricing.
 
@@ -27,3 +27,9 @@ The project resulted in a fully functional console application with a profession
 - **UI Library:** Spectre.Console  
 - **Data Persistence:** JSON files  
 - **Version Control:** Git & GitHub  
+
+**Author:** Djan Karis Lomongo Freolo 
+
+**Course:** KYHA_DSO25
+
+**Published Date:** 01-11-2025
