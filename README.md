@@ -27,9 +27,3 @@ The project resulted in a fully functional console application with a profession
 - **UI Library:** Spectre.Console  
 - **Data Persistence:** JSON files  
 - **Version Control:** Git & GitHub  
-
-## How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/shiizuunee/Inl-mninguppgift-Prague-Parking-V2.git
